@@ -1,3 +1,4 @@
 *.zip
 TPCH_v301/
 .DS_Store
+.token
