@@ -1,5 +1,3 @@
 *.zip
-TPCH_v301/dbgen/data/
-TPCH_v301/ref_data/
-tpch_dbgen_ori/
+TPCH_v301/
 .DS_Store
